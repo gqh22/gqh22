@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="120" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" />
+<div align="center">
+  <img src="giqhdev_banner.png" alt="GiqhDev Banner" width="100%" />
+</div>
 
 # Gustavo Quintana Hidalgo
 
