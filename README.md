@@ -93,32 +93,14 @@ A SaaS platform for barbershops where users can:
 ---
 
 ## 📊 GitHub Stats
-<!--- stats -->
-<p align="center" width="100%">
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">  
+<div align="center"> 
+	
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gqh22?cardType=level&theme=onedark&fontFamily=&preferLogin=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=gqh22&theme=onedark&hide_border=false)
+<br>
 
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gqh22&theme=onedark&show_icons=true&count_private=true&hide_border=true" />
-  
-  <br><br>
- <img width="100%" margin-top="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=gqh22&theme=onedark&hide_border=true" /> 
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gqh22&theme=onedark&hide_border=false&langs_count=10&layout=compact&hide_border=true) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gqh22&theme=onedark&hide_border=false)
 
-</td>
-
-<td width="50%" align="center">
-
-   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gqh22&theme=onedark&hide_border=false&langs_count=10&layout=compact&hide_border=true"/>  
-
-  <br><br>
-
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gqh22&theme=onedark&hide_border=false"/>
-
-</td>
-</tr>
-</table>
-</p>
-<!--- stats end -->
+</div>
 
 ---
 
