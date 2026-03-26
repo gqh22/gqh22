@@ -87,40 +87,32 @@ A SaaS platform for barbershops where users can:
 ---
 
 ## 📊 GitHub Stats
-<!--
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gqh22&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gqh22&theme=onedark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gqh22&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
-
 <!--- stats -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<p align="center" width="100%">
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">  
+
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gqh22&theme=onedark&show_icons=true&count_private=true&hide_border=true" />
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gqh22&theme=onedark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gqh22&theme=onedark&hide_border=false" /> 
+  <br><br>
+ <img width="100%" margin-top="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=gqh22&theme=onedark&hide_border=true" /> 
+
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gqh22&theme=onedark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
-  
-  </td>
+   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gqh22&theme=onedark&hide_border=false&langs_count=10&layout=compact&hide_border=true"/>  
+
+  <br><br>
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gqh22&theme=onedark&hide_border=false"/>
+
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-</p>        
-<!--- stats (end) -->
+</p>
+<!--- stats end -->
 
 ---
 
