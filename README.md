@@ -4,11 +4,15 @@
 	<img src = "https://komarev.com/ghpvc/?username=gqh22&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
-<div align="center">
+<div align="center" width="100%">
   <img src="giqhdev_banner.png" alt="GiqhDev Banner" width="100%" />
 </div>
 
-# <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Gustavo Quintana Hidalgo</a></h1> 
+# <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Gustavo Quintana Hidalgo</a></h1> 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Backend%20developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/gqh22?label=Follow&style=social)](https://github.com/gqh22)
 [![GitHub Stars](https://img.shields.io/github/stars/gqh22?style=social)](https://github.com/gqh22)
@@ -19,7 +23,9 @@
 
 ## 🚀 About Me
 
-💻 Software Developer with +3 years of experience building scalable applications using **.NET & C#**
+<img align="right" width=200px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+💻 Software Developer with +4 years of experience building scalable applications using **.NET & C#**
 
 ⚙️ Specialized in:
 - Backend development with **ASP.NET Core / Web API**
