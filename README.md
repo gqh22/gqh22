@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=gqh22&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=GiqhDev&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
 <div align="center" width="100%">
@@ -14,8 +14,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Backend%20developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/gqh22?label=Follow&style=social)](https://github.com/gqh22)
-[![GitHub Stars](https://img.shields.io/github/stars/gqh22?style=social)](https://github.com/gqh22)
+[![GitHub Followers](https://img.shields.io/github/followers/GiqhDev?label=Follow&style=social)](https://github.com/GiqhDev)
+[![GitHub Stars](https://img.shields.io/github/stars/GiqhDev?style=social)](https://github.com/GiqhDev)
 
 </div>
 
@@ -95,10 +95,10 @@ A SaaS platform for barbershops where users can:
 ## 📊 GitHub Stats
 <div align="center"> 
 	
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gqh22?cardType=level&theme=onedark&fontFamily=&preferLogin=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=gqh22&theme=onedark&hide_border=false)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GiqhDev?cardType=level&theme=onedark&fontFamily=&preferLogin=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=GiqhDev&theme=onedark&hide_border=false)
 <br>
 
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gqh22&theme=onedark&hide_border=false&langs_count=10&layout=compact&hide_border=true) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gqh22&theme=onedark&hide_border=false)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GiqhDev&theme=onedark&hide_border=false&langs_count=10&layout=compact&hide_border=true) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiqhDev&theme=onedark&hide_border=false)
 
 </div>
 
@@ -116,7 +116,7 @@ A SaaS platform for barbershops where users can:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/gqh22">
+<a href="https://github.com/GiqhDev">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
